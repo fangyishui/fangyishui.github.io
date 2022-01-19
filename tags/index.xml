@@ -5,6 +5,16 @@
     <link>https://fangyishui.github.io/tags/</link>
     <description>Recent content in Tags on 方先生的博客</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>zh-cn</language><atom:link href="https://fangyishui.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>zh-cn</language>
+    <lastBuildDate>Tue, 18 Jan 2022 22:27:28 +0800</lastBuildDate><atom:link href="https://fangyishui.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>java</title>
+      <link>https://fangyishui.github.io/tags/java/</link>
+      <pubDate>Tue, 18 Jan 2022 22:27:28 +0800</pubDate>
+      
+      <guid>https://fangyishui.github.io/tags/java/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

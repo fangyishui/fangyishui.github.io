@@ -9,19 +9,42 @@
   </url>
   
   <url>
-    <loc>https://fangyishui.github.io/categories/</loc>
+    <loc>https://fangyishui.github.io/tags/java/</loc>
+    <lastmod>2022-01-18T22:27:28+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://fangyishui.github.io/post/java%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%8601/</loc>
+    <lastmod>2022-01-18T22:27:28+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://fangyishui.github.io/post/</loc>
+    <lastmod>2022-01-18T22:27:28+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://fangyishui.github.io/tags/</loc>
+    <lastmod>2022-01-18T22:27:28+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://fangyishui.github.io/</loc>
+    <lastmod>2022-01-18T22:27:28+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://fangyishui.github.io/categories/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
