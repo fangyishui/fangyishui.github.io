@@ -169,7 +169,7 @@ Process finished with exit code 0
 &lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 &lt;/div&gt;
 &lt;/div&gt;&lt;h3 id=&#34;练习二&#34;&gt;练习二&lt;/h3&gt;
-&lt;p&gt;&lt;img src=&#34;Java%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%8601.assets/image-20220109103055348.png&#34; alt=&#34;image-20220109103055348&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/fangyishui/javaAll/master/%E6%96%87%E6%A1%A3/03.%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86.assets/image-20220109103055348.png&#34; alt=&#34;image-20220109103055348&#34;&gt;&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
 &lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
 &lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt; 1
@@ -398,7 +398,7 @@ PS C:\java\javaAll\java基础\代码\chapter01&amp;gt;
 
 &lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 &lt;/div&gt;
-&lt;/div&gt;&lt;p&gt;&lt;img src=&#34;Java%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%8601.assets/image-20220109111623907.png&#34; alt=&#34;image-20220109111623907&#34;&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/fangyishui/javaAll/master/%E6%96%87%E6%A1%A3/03.%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86.assets/image-20220109111623907.png&#34; alt=&#34;image-20220109111623907&#34;&gt;&lt;/p&gt;
 &lt;h2 id=&#34;变量&#34;&gt;变量&lt;/h2&gt;
 &lt;h3 id=&#34;基本概念&#34;&gt;基本概念&lt;/h3&gt;
 &lt;p&gt;&lt;strong&gt;变量是程序的基本组成单位&lt;/strong&gt;&lt;/p&gt;
@@ -646,7 +646,7 @@ Process finished with exit code 0
 &lt;/div&gt;
 &lt;/div&gt;&lt;h3 id=&#34;数据类型&#34;&gt;数据类型&lt;/h3&gt;
 &lt;p&gt;每一种数据都定义了明确的数据类型（Java是强数据类型），在内存中分配了不同大小的内存空间（字节）&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;Java%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%8601.assets/image-20220109132154072.png&#34; alt=&#34;image-20220109132154072&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/fangyishui/javaAll/master/%E6%96%87%E6%A1%A3/03.%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86.assets/image-20220109132154072.png&#34; alt=&#34;image-20220109132154072&#34;&gt;&lt;/p&gt;
 &lt;p&gt;上图说明
 1.java数据类型分为两大类基本数据类型，引用类型
 2.基本数据类型有8种 数值型 [byte , short , int , long , float ,double] char , boolean
@@ -654,7 +654,7 @@ Process finished with exit code 0
 &lt;h4 id=&#34;整型&#34;&gt;整型&lt;/h4&gt;
 &lt;h5 id=&#34;基本介绍&#34;&gt;基本介绍&lt;/h5&gt;
 &lt;p&gt;Java的整数类型就是用于存放整数值的，比如 12，30,3456等等&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;Java%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%8601.assets/image-20220109132729060.png&#34; alt=&#34;image-20220109132729060&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/fangyishui/javaAll/master/%E6%96%87%E6%A1%A3/03.%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86.assets/image-20220109132729060.png&#34; alt=&#34;image-20220109132729060&#34;&gt;&lt;/p&gt;
 &lt;h5 id=&#34;细节-1&#34;&gt;细节&lt;/h5&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
 &lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
@@ -699,13 +699,13 @@ Process finished with exit code 0
 &lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 &lt;/div&gt;
 &lt;/div&gt;&lt;h5 id=&#34;内存中表现&#34;&gt;内存中表现&lt;/h5&gt;
-&lt;p&gt;&lt;img src=&#34;Java%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%8601.assets/image-20220109133701867.png&#34; alt=&#34;image-20220109133701867&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/fangyishui/javaAll/master/%E6%96%87%E6%A1%A3/03.%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86.assets/image-20220109133701867.png&#34; alt=&#34;image-20220109133701867&#34;&gt;&lt;/p&gt;
 &lt;h4 id=&#34;浮点型&#34;&gt;浮点型&lt;/h4&gt;
 &lt;h5 id=&#34;基本介绍-1&#34;&gt;基本介绍&lt;/h5&gt;
 &lt;p&gt;Java的浮点类型可以表示一个小数 例如123.4 ， 7.8 ，0.12&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;Java%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%8601.assets/image-20220109134045764.png&#34; alt=&#34;image-20220109134045764&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/fangyishui/javaAll/master/%E6%96%87%E6%A1%A3/03.%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86.assets/image-20220109134045764.png&#34; alt=&#34;image-20220109134045764&#34;&gt;&lt;/p&gt;
 &lt;h5 id=&#34;细节-2&#34;&gt;细节&lt;/h5&gt;
-&lt;p&gt;&lt;img src=&#34;Java%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%8601.assets/image-20220109134425845.png&#34; alt=&#34;image-20220109134425845&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/fangyishui/javaAll/master/%E6%96%87%E6%A1%A3/03.%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86.assets/image-20220109134425845.png&#34; alt=&#34;image-20220109134425845&#34;&gt;&lt;/p&gt;
 &lt;h5 id=&#34;演示代码&#34;&gt;演示代码&lt;/h5&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
 &lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
@@ -1092,7 +1092,7 @@ bia5码(繁体中文，台湾，香港)
 &lt;/div&gt;
 &lt;/div&gt;&lt;h3 id=&#34;数据类型转换&#34;&gt;数据类型转换&lt;/h3&gt;
 &lt;h5 id=&#34;自动类型转换&#34;&gt;自动类型转换&lt;/h5&gt;
-&lt;p&gt;&lt;img src=&#34;Java%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%8601.assets/image-20220109141755192.png&#34; alt=&#34;image-20220109141755192&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/fangyishui/javaAll/master/%E6%96%87%E6%A1%A3/03.%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86.assets/image-20220109141755192.png&#34; alt=&#34;image-20220109141755192&#34;&gt;&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
 &lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
 &lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt; 1
@@ -1560,7 +1560,7 @@ System.out.printin(c3);//&amp;#39;d&amp;#39;
 &lt;p&gt;比如 我们可以把 “123” 转成整数，但是不能把 “hello” 转成一个整数&lt;/p&gt;
 &lt;p&gt;2.如果格式不正确，就会抛出异常，程序就会终止，这个问题在异常章节处理&lt;/p&gt;
 &lt;h3 id=&#34;本章作业&#34;&gt;本章作业&lt;/h3&gt;
-&lt;p&gt;&lt;img src=&#34;Java%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%8601.assets/image-20220109145854861.png&#34; alt=&#34;image-20220109145854861&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/fangyishui/javaAll/master/%E6%96%87%E6%A1%A3/03.%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86.assets/image-20220109145854861.png&#34; alt=&#34;image-20220109145854861&#34;&gt;&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
 &lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
 &lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt; 1
@@ -1788,7 +1788,7 @@ System.out.printin(c3);//&amp;#39;d&amp;#39;
 &lt;/ol&gt;
 &lt;h3 id=&#34;算术运算符&#34;&gt;算术运算符&lt;/h3&gt;
 &lt;p&gt;算术运算符是对数值类型的变量进行运算的，在Java程序中使用的非常多。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;Java%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%8601.assets/image-20220109210942122.png&#34; alt=&#34;image-20220109210942122&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/fangyishui/javaAll/master/%E6%96%87%E6%A1%A3/03.%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86.assets/image-20220109210942122.png&#34; alt=&#34;image-20220109210942122&#34;&gt;&lt;/p&gt;
 &lt;p&gt;案例演示&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
 &lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
@@ -1883,8 +1883,8 @@ System.out.printin(c3);//&amp;#39;d&amp;#39;
 &lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 &lt;/div&gt;
 &lt;/div&gt;&lt;p&gt;面试题&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;Java%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%8601.assets/image-20220109211147343.png&#34; alt=&#34;image-20220109211147343&#34;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;Java%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%8601.assets/image-20220109211516886.png&#34; alt=&#34;image-20220109211516886&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/fangyishui/javaAll/master/%E6%96%87%E6%A1%A3/03.%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86.assets/image-20220109211147343.png&#34; alt=&#34;image-20220109211147343&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/fangyishui/javaAll/master/%E6%96%87%E6%A1%A3/03.%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86.assets/image-20220109211516886.png&#34; alt=&#34;image-20220109211516886&#34;&gt;&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
 &lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
 &lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt; 1
@@ -1948,7 +1948,7 @@ System.out.printin(c3);//&amp;#39;d&amp;#39;
 &lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 &lt;/div&gt;
 &lt;/div&gt;&lt;p&gt;课堂练习&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;Java%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%8601.assets/image-20220109211625765.png&#34; alt=&#34;image-20220109211625765&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/fangyishui/javaAll/master/%E6%96%87%E6%A1%A3/03.%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86.assets/image-20220109211625765.png&#34; alt=&#34;image-20220109211625765&#34;&gt;&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
 &lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
 &lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt; 1
@@ -2035,7 +2035,7 @@ System.out.printin(c3);//&amp;#39;d&amp;#39;
 &lt;p&gt;介绍
 1.关系运算符的结果都是boolean型，也就是要么是true，要么是false&lt;/p&gt;
 &lt;p&gt;2.关系表达式 经常用在 if结构的条件中或循环结构的条件中&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;Java%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%8601.assets/image-20220109212917164.png&#34; alt=&#34;image-20220109212917164&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/fangyishui/javaAll/master/%E6%96%87%E6%A1%A3/03.%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86.assets/image-20220109212917164.png&#34; alt=&#34;image-20220109212917164&#34;&gt;&lt;/p&gt;
 &lt;p&gt;演示&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
 &lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
@@ -2090,9 +2090,9 @@ System.out.printin(c3);//&amp;#39;d&amp;#39;
 &lt;h3 id=&#34;逻辑运算符&#34;&gt;逻辑运算符&lt;/h3&gt;
 &lt;p&gt;● 介绍
 用于连接多个条件（多个关系表达式），最终的结果也是一个boolean值。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;Java%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%8601.assets/image-20220109213443808.png&#34; alt=&#34;image-20220109213443808&#34;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;Java%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%8601.assets/image-20220109213516328.png&#34; alt=&#34;image-20220109213516328&#34;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;Java%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%8601.assets/image-20220109213649434.png&#34; alt=&#34;image-20220109213649434&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/fangyishui/javaAll/master/%E6%96%87%E6%A1%A3/03.%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86.assets/image-20220109213443808.png&#34; alt=&#34;image-20220109213443808&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/fangyishui/javaAll/master/%E6%96%87%E6%A1%A3/03.%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86.assets/image-20220109213516328.png&#34; alt=&#34;image-20220109213516328&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/fangyishui/javaAll/master/%E6%96%87%E6%A1%A3/03.%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86.assets/image-20220109213649434.png&#34; alt=&#34;image-20220109213649434&#34;&gt;&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
 &lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
 &lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt; 1
@@ -2165,7 +2165,7 @@ System.out.printin(c3);//&amp;#39;d&amp;#39;
 &lt;span class=&#34;o&#34;&gt;}&lt;/span&gt;
 &lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 &lt;/div&gt;
-&lt;/div&gt;&lt;p&gt;&lt;img src=&#34;Java%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%8601.assets/image-20220109213846917.png&#34; alt=&#34;image-20220109213846917&#34;&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/fangyishui/javaAll/master/%E6%96%87%E6%A1%A3/03.%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86.assets/image-20220109213846917.png&#34; alt=&#34;image-20220109213846917&#34;&gt;&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
 &lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
 &lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt; 1
@@ -2240,7 +2240,7 @@ System.out.printin(c3);//&amp;#39;d&amp;#39;
 &lt;span class=&#34;o&#34;&gt;}&lt;/span&gt;
 &lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 &lt;/div&gt;
-&lt;/div&gt;&lt;p&gt;&lt;img src=&#34;Java%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%8601.assets/image-20220109213952125.png&#34; alt=&#34;image-20220109213952125&#34;&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/fangyishui/javaAll/master/%E6%96%87%E6%A1%A3/03.%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86.assets/image-20220109213952125.png&#34; alt=&#34;image-20220109213952125&#34;&gt;&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
 &lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
 &lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt; 1
@@ -2280,9 +2280,9 @@ System.out.printin(c3);//&amp;#39;d&amp;#39;
 &lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 &lt;/div&gt;
 &lt;/div&gt;&lt;p&gt;练习题&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;Java%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%8601.assets/image-20220109214143716.png&#34; alt=&#34;image-20220109214143716&#34;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;Java%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%8601.assets/image-20220109214333362.png&#34; alt=&#34;image-20220109214333362&#34;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;Java%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%8601.assets/image-20220109214420303.png&#34; alt=&#34;image-20220109214420303&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/fangyishui/javaAll/master/%E6%96%87%E6%A1%A3/03.%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86.assets/image-20220109214143716.png&#34; alt=&#34;image-20220109214143716&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/fangyishui/javaAll/master/%E6%96%87%E6%A1%A3/03.%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86.assets/image-20220109214333362.png&#34; alt=&#34;image-20220109214333362&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/fangyishui/javaAll/master/%E6%96%87%E6%A1%A3/03.%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86.assets/image-20220109214420303.png&#34; alt=&#34;image-20220109214420303&#34;&gt;&lt;/p&gt;
 &lt;p&gt;验证&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
 &lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
@@ -2394,7 +2394,7 @@ System.out.printin(c3);//&amp;#39;d&amp;#39;
 .
 a += b; [等价 ？  a = a + b; ]
 a -= b; [等价？ a=  a - b]&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;Java%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%8601.assets/image-20220109214903693.png&#34; alt=&#34;image-20220109214903693&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/fangyishui/javaAll/master/%E6%96%87%E6%A1%A3/03.%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86.assets/image-20220109214903693.png&#34; alt=&#34;image-20220109214903693&#34;&gt;&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
 &lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
 &lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt; 1
@@ -2537,7 +2537,7 @@ int result = :&lt;/p&gt;
 &lt;span class=&#34;o&#34;&gt;}&lt;/span&gt;
 &lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 &lt;/div&gt;
-&lt;/div&gt;&lt;p&gt;&lt;img src=&#34;Java%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%8601.assets/image-20220109215728716.png&#34; alt=&#34;image-20220109215728716&#34;&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/fangyishui/javaAll/master/%E6%96%87%E6%A1%A3/03.%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86.assets/image-20220109215728716.png&#34; alt=&#34;image-20220109215728716&#34;&gt;&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
 &lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
 &lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt; 1
@@ -2597,7 +2597,7 @@ int result = :&lt;/p&gt;
 1.运算符有不同的优先级，所谓优先级就是表达式运算中的运算顺序。
 如右表，上一行运算符总优先于下一行。
 2.只有单目运算符、赋值运算符是从右向左运算的。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;Java%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%8601.assets/image-20220109220124961.png&#34; alt=&#34;image-20220109220124961&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/fangyishui/javaAll/master/%E6%96%87%E6%A1%A3/03.%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86.assets/image-20220109220124961.png&#34; alt=&#34;image-20220109220124961&#34;&gt;&lt;/p&gt;
 &lt;h3 id=&#34;标识符的命名规则和规范&#34;&gt;标识符的命名规则和规范&lt;/h3&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
 &lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
@@ -2631,12 +2631,12 @@ int result = :&lt;/p&gt;
 
 &lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 &lt;/div&gt;
-&lt;/div&gt;&lt;p&gt;&lt;img src=&#34;Java%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%8601.assets/image-20220109221541396.png&#34; alt=&#34;image-20220109221541396&#34;&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/fangyishui/javaAll/master/%E6%96%87%E6%A1%A3/03.%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86.assets/image-20220109221541396.png&#34; alt=&#34;image-20220109221541396&#34;&gt;&lt;/p&gt;
 &lt;p&gt;命令规范&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;Java%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%8601.assets/image-20220109221625752.png&#34; alt=&#34;image-20220109221625752&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/fangyishui/javaAll/master/%E6%96%87%E6%A1%A3/03.%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86.assets/image-20220109221625752.png&#34; alt=&#34;image-20220109221625752&#34;&gt;&lt;/p&gt;
 &lt;h3 id=&#34;关键字&#34;&gt;关键字&lt;/h3&gt;
-&lt;p&gt;&lt;img src=&#34;Java%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%8601.assets/image-20220109221651024.png&#34; alt=&#34;image-20220109221651024&#34;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;Java%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%8601.assets/image-20220109221731579.png&#34; alt=&#34;image-20220109221731579&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/fangyishui/javaAll/master/%E6%96%87%E6%A1%A3/03.%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86.assets/image-20220109221651024.png&#34; alt=&#34;image-20220109221651024&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/fangyishui/javaAll/master/%E6%96%87%E6%A1%A3/03.%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86.assets/image-20220109221731579.png&#34; alt=&#34;image-20220109221731579&#34;&gt;&lt;/p&gt;
 &lt;h3 id=&#34;保留字&#34;&gt;保留字&lt;/h3&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
 &lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
@@ -2725,8 +2725,8 @@ byValue、cast、future、generic、inner,opeator,outer,rest,var ,goto ,const
 &lt;span class=&#34;o&#34;&gt;}&lt;/span&gt;
 &lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 &lt;/div&gt;
-&lt;/div&gt;&lt;p&gt;&lt;img src=&#34;Java%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%8601.assets/image-20220109222346593.png&#34; alt=&#34;image-20220109222346593&#34;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;Java%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%8601.assets/image-20220109222532294.png&#34; alt=&#34;image-20220109222532294&#34;&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/fangyishui/javaAll/master/%E6%96%87%E6%A1%A3/03.%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86.assets/image-20220109222346593.png&#34; alt=&#34;image-20220109222346593&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/fangyishui/javaAll/master/%E6%96%87%E6%A1%A3/03.%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86.assets/image-20220109222532294.png&#34; alt=&#34;image-20220109222532294&#34;&gt;&lt;/p&gt;
 &lt;h3 id=&#34;进制的转换&#34;&gt;进制的转换&lt;/h3&gt;
 &lt;p&gt;win10 自带计算器&lt;/p&gt;
 &lt;p&gt;HEX 十六进制&lt;/p&gt;
@@ -2785,7 +2785,7 @@ byValue、cast、future、generic、inner,opeator,outer,rest,var ,goto ,const
 &lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 &lt;/div&gt;
 &lt;/div&gt;&lt;h4 id=&#34;练习&#34;&gt;练习&lt;/h4&gt;
-&lt;p&gt;&lt;img src=&#34;Java%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%8601.assets/image-20220109223625186.png&#34; alt=&#34;image-20220109223625186&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/fangyishui/javaAll/master/%E6%96%87%E6%A1%A3/03.%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86.assets/image-20220109223625186.png&#34; alt=&#34;image-20220109223625186&#34;&gt;&lt;/p&gt;
 &lt;h4 id=&#34;十进制转二进制&#34;&gt;十进制转二进制&lt;/h4&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
 &lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
@@ -2803,27 +2803,27 @@ byValue、cast、future、generic、inner,opeator,outer,rest,var ,goto ,const
 案例:请将34转成二进制 = 
 &lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 &lt;/div&gt;
-&lt;/div&gt;&lt;p&gt;&lt;img src=&#34;Java%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%8601.assets/image-20220109224015546.png&#34; alt=&#34;image-20220109224015546&#34;&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/fangyishui/javaAll/master/%E6%96%87%E6%A1%A3/03.%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86.assets/image-20220109224015546.png&#34; alt=&#34;image-20220109224015546&#34;&gt;&lt;/p&gt;
 &lt;h4 id=&#34;十进制转八进制&#34;&gt;十进制转八进制&lt;/h4&gt;
-&lt;p&gt;&lt;img src=&#34;Java%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%8601.assets/image-20220109224051751.png&#34; alt=&#34;image-20220109224051751&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/fangyishui/javaAll/master/%E6%96%87%E6%A1%A3/03.%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86.assets/image-20220109224051751.png&#34; alt=&#34;image-20220109224051751&#34;&gt;&lt;/p&gt;
 &lt;h4 id=&#34;十进制转十六进制&#34;&gt;十进制转十六进制&lt;/h4&gt;
-&lt;p&gt;&lt;img src=&#34;Java%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%8601.assets/image-20220109224141680.png&#34; alt=&#34;image-20220109224141680&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/fangyishui/javaAll/master/%E6%96%87%E6%A1%A3/03.%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86.assets/image-20220109224141680.png&#34; alt=&#34;image-20220109224141680&#34;&gt;&lt;/p&gt;
 &lt;h4 id=&#34;练习-1&#34;&gt;练习&lt;/h4&gt;
-&lt;p&gt;&lt;img src=&#34;Java%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%8601.assets/image-20220109224214162.png&#34; alt=&#34;image-20220109224214162&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/fangyishui/javaAll/master/%E6%96%87%E6%A1%A3/03.%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86.assets/image-20220109224214162.png&#34; alt=&#34;image-20220109224214162&#34;&gt;&lt;/p&gt;
 &lt;h4 id=&#34;二进制转八进制&#34;&gt;二进制转八进制&lt;/h4&gt;
-&lt;p&gt;&lt;img src=&#34;Java%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%8601.assets/image-20220109224311274.png&#34; alt=&#34;image-20220109224311274&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/fangyishui/javaAll/master/%E6%96%87%E6%A1%A3/03.%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86.assets/image-20220109224311274.png&#34; alt=&#34;image-20220109224311274&#34;&gt;&lt;/p&gt;
 &lt;h4 id=&#34;二进制转十六进制&#34;&gt;二进制转十六进制&lt;/h4&gt;
-&lt;p&gt;&lt;img src=&#34;Java%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%8601.assets/image-20220109224336174.png&#34; alt=&#34;image-20220109224336174&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/fangyishui/javaAll/master/%E6%96%87%E6%A1%A3/03.%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86.assets/image-20220109224336174.png&#34; alt=&#34;image-20220109224336174&#34;&gt;&lt;/p&gt;
 &lt;h4 id=&#34;练习-2&#34;&gt;练习&lt;/h4&gt;
-&lt;p&gt;&lt;img src=&#34;Java%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%8601.assets/image-20220109224352641.png&#34; alt=&#34;image-20220109224352641&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/fangyishui/javaAll/master/%E6%96%87%E6%A1%A3/03.%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86.assets/image-20220109224352641.png&#34; alt=&#34;image-20220109224352641&#34;&gt;&lt;/p&gt;
 &lt;h4 id=&#34;八进制转二进制&#34;&gt;八进制转二进制&lt;/h4&gt;
-&lt;p&gt;&lt;img src=&#34;Java%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%8601.assets/image-20220109224453071.png&#34; alt=&#34;image-20220109224453071&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/fangyishui/javaAll/master/%E6%96%87%E6%A1%A3/03.%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86.assets/image-20220109224453071.png&#34; alt=&#34;image-20220109224453071&#34;&gt;&lt;/p&gt;
 &lt;p&gt;省略了首位的0&lt;/p&gt;
 &lt;p&gt;ob 010 011 111&lt;/p&gt;
 &lt;h4 id=&#34;十六进制转二进制&#34;&gt;十六进制转二进制&lt;/h4&gt;
-&lt;p&gt;&lt;img src=&#34;Java%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%8601.assets/image-20220109224605230.png&#34; alt=&#34;image-20220109224605230&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/fangyishui/javaAll/master/%E6%96%87%E6%A1%A3/03.%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86.assets/image-20220109224605230.png&#34; alt=&#34;image-20220109224605230&#34;&gt;&lt;/p&gt;
 &lt;h4 id=&#34;练习-3&#34;&gt;练习&lt;/h4&gt;
-&lt;p&gt;&lt;em&gt;&lt;img src=&#34;Java%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%8601.assets/image-20220109224645934.png&#34; alt=&#34;image-20220109224645934&#34;&gt;&lt;/em&gt;*&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;img src=&#34;https://raw.githubusercontent.com/fangyishui/javaAll/master/%E6%96%87%E6%A1%A3/03.%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86.assets/image-20220109224645934.png&#34; alt=&#34;image-20220109224645934&#34;&gt;&lt;/em&gt;*&lt;/p&gt;
 &lt;h3 id=&#34;位运算&#34;&gt;位运算&lt;/h3&gt;
 &lt;h3 id=&#34;二进制在运算中的说明&#34;&gt;二进制在运算中的说明&lt;/h3&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
@@ -3006,7 +3006,7 @@ byValue、cast、future、generic、inner,opeator,outer,rest,var ,goto ,const
 4．特别说明：没有&amp;lt;&amp;lt;&amp;lt; 符号
 &lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 &lt;/div&gt;
-&lt;/div&gt;&lt;p&gt;&lt;img src=&#34;Java%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%8601.assets/image-20220109230232246.png&#34; alt=&#34;image-20220109230232246&#34;&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/fangyishui/javaAll/master/%E6%96%87%E6%A1%A3/03.%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86.assets/image-20220109230232246.png&#34; alt=&#34;image-20220109230232246&#34;&gt;&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
 &lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
 &lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt; 1
@@ -3044,9 +3044,9 @@ byValue、cast、future、generic、inner,opeator,outer,rest,var ,goto ,const
 &lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 &lt;/div&gt;
 &lt;/div&gt;&lt;h3 id=&#34;本章作业-1&#34;&gt;本章作业&lt;/h3&gt;
-&lt;p&gt;&lt;img src=&#34;Java%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%8601.assets/image-20220109230317190.png&#34; alt=&#34;image-20220109230317190&#34;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;Java%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%8601.assets/image-20220109230502575.png&#34; alt=&#34;image-20220109230502575&#34;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;Java%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%8601.assets/image-20220109230538258.png&#34; alt=&#34;image-20220109230538258&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/fangyishui/javaAll/master/%E6%96%87%E6%A1%A3/03.%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86.assets/image-20220109230317190.png&#34; alt=&#34;image-20220109230317190&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/fangyishui/javaAll/master/%E6%96%87%E6%A1%A3/03.%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86.assets/image-20220109230502575.png&#34; alt=&#34;image-20220109230502575&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/fangyishui/javaAll/master/%E6%96%87%E6%A1%A3/03.%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86.assets/image-20220109230538258.png&#34; alt=&#34;image-20220109230538258&#34;&gt;&lt;/p&gt;
 &lt;h2 id=&#34;控制结构&#34;&gt;控制结构&lt;/h2&gt;
 &lt;h3 id=&#34;顺序&#34;&gt;顺序&lt;/h3&gt;
 &lt;h4 id=&#34;分支&#34;&gt;分支&lt;/h4&gt;
