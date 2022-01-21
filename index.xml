@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>方先生的博客</title>
-    <link>https://fangyishui.github.io/</link>
+    <link>https://b.zjia.me/</link>
     <description>Recent content on 方先生的博客</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <lastBuildDate>Tue, 18 Jan 2022 22:27:28 +0800</lastBuildDate>
     
-        <atom:link href="https://fangyishui.github.io/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://b.zjia.me/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>关于</title>
-      <link>https://fangyishui.github.io/about/</link>
+      <link>https://b.zjia.me/about/</link>
       <pubDate>Sun, 20 Aug 2017 21:38:52 +0800</pubDate>
       
-      <guid>https://fangyishui.github.io/about/</guid>
+      <guid>https://b.zjia.me/about/</guid>
       
         <description>&lt;p&gt;w 我的静态博客&lt;/p&gt;
 </description>
@@ -25,10 +25,10 @@
     
     <item>
       <title>Java基础知识01</title>
-      <link>https://fangyishui.github.io/post/java%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%8601/</link>
+      <link>https://b.zjia.me/post/java%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%8601/</link>
       <pubDate>Tue, 18 Jan 2022 22:27:28 +0800</pubDate>
       
-      <guid>https://fangyishui.github.io/post/java%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%8601/</guid>
+      <guid>https://b.zjia.me/post/java%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%8601/</guid>
       
         <description>&lt;p&gt;&lt;strong&gt;&lt;!-- raw HTML omitted --&gt;案例都来源于韩顺平老师的整理&lt;!-- raw HTML omitted --&gt;&lt;/strong&gt;&lt;/p&gt;
 &lt;h2 id=&#34;转义字符&#34;&gt;转义字符&lt;/h2&gt;

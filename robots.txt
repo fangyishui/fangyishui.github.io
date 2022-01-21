@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: https://fangyishui.github.io/sitemap.xml
+Sitemap: https://b.zjia.me/sitemap.xml

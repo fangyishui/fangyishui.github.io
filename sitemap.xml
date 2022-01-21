@@ -1,50 +1,50 @@
-<?xml-stylesheet type="text/xsl" href="https://fangyishui.github.io/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https://b.zjia.me/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://fangyishui.github.io/about/</loc>
+    <loc>https://b.zjia.me/about/</loc>
     <lastmod>2017-08-28T21:41:52+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://fangyishui.github.io/tags/java/</loc>
+    <loc>https://b.zjia.me/tags/java/</loc>
     <lastmod>2022-01-18T22:27:28+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://fangyishui.github.io/post/java%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%8601/</loc>
+    <loc>https://b.zjia.me/post/java%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%8601/</loc>
     <lastmod>2022-01-18T22:27:28+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://fangyishui.github.io/post/</loc>
+    <loc>https://b.zjia.me/post/</loc>
     <lastmod>2022-01-18T22:27:28+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://fangyishui.github.io/tags/</loc>
+    <loc>https://b.zjia.me/tags/</loc>
     <lastmod>2022-01-18T22:27:28+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://fangyishui.github.io/</loc>
+    <loc>https://b.zjia.me/</loc>
     <lastmod>2022-01-18T22:27:28+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://fangyishui.github.io/categories/</loc>
+    <loc>https://b.zjia.me/categories/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
